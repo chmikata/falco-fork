@@ -36,7 +36,7 @@ print_usage() {
 	echo "  --download               try to download a prebuilt driver (default true)"
 	echo "  --kernel-release <value> set the kernel release"
 	echo "  --kernel-version <value> set the kernel version"
- 	echo "  --http-insecure	         enable insecure downloads"
+	echo "  --http-insecure	         enable insecure downloads"
 	echo "  --print-env              skip execution and print env variables for other tools to consume"
 	echo ""
 	echo "Environment variables:"
